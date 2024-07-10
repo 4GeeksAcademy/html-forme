@@ -1,0 +1,15 @@
+form {
+    border: 1px solid lightgray;
+}
+.amon {
+    display: flex;
+}
+.head {
+    border-bottom: 1px solid lightgray;
+    background-color: whitesmoke;
+}
+.footer {
+    background-color: whitesmoke;
+    border-top: 1px solid lightgray;
+    padding: 3px;
+}
